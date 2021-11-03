@@ -4,10 +4,12 @@ h2, h3 {
 }
 h2 {
   text-align: center;
-  font-size: 2.5rem;
+  font-size: 4rem;
+  font-weight: bold;
 }
 h3 {
   font-size: 1.6rem;
+  font-weight: bold;
 
 }
 p {
@@ -18,7 +20,7 @@ p {
   background-color: white;
 }
 .text-container {
-  padding: 4rem 1rem 2rem 1rem;
+  padding: .5rem 1rem .5rem 1rem;
   max-height: 400px;
   overflow: hidden;
   word-wrap: break-word;
