@@ -41,7 +41,7 @@ saveButton.addEventListener('click', function(event) {
   html2canvas(cardContainer, {
     onrendered: function(canvas) {
       var myImage = canvas.toDataURL("image/jpg");
-      downloadURI("data:" + myImage, "HappyHolidays.jpg");
+      downloadURI("data:" + myImage, "HappyDiwali.jpg");
     }
   });
 });
