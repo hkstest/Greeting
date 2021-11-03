@@ -1,6 +1,7 @@
 h2, h3 {
   color: darkred;
   font-family: 'Petit Formal Script', cursive;
+  font-weight: bold;
 }
 h2 {
   text-align: center;
@@ -20,14 +21,13 @@ p {
   background-color: white;
 }
 .text-container {
-  padding: 0.2rem 0.2rem 0.2rem 0.2rem;
-  max-height: 400px;
+  padding: 0rem 0rem 0rem 0rem;
+  max-height: 100%;
   overflow: hidden;
   word-wrap: break-word;
 }
 #card-from {
-  float: right;
-  padding-right: 0.2rem;
+text-align: center;
 }
 
 img {
