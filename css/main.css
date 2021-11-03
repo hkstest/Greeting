@@ -17,7 +17,7 @@ h1 {
 #card-container {
   margin: auto;
   width: 110%;
-  max-height: 40%;
+  max-height: 100%;
   border: 0;
 }
 
